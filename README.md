@@ -8,4 +8,4 @@ Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense
 - CSS3
 
 ## Redes Sociais
-[![Instagram](https://www.itabirito.mg.leg.br/imagens/insta.png/image =25x25)](https://www.instagram.com/andremartinsd_/)
+[![Instagram](https://www.itabirito.mg.leg.br/imagens/insta.png/image)](https://www.instagram.com/andremartinsd_/)
