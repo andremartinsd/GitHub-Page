@@ -6,3 +6,6 @@ Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense
 - React Native
 - HTML5
 - CSS3
+
+## Eu
+![eu no rio](https://www.instagram.com/p/CadHUcvvuCF/)
