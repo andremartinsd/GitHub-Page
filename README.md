@@ -9,4 +9,4 @@ Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense
 
 ## Eu
 [![Texto alternativo](https://www.itabirito.mg.leg.br/imagens/insta.png/image)](https://www.instagram.com/andremartinsd_/)
-
+<img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" width="25px" height="25px">
