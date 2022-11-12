@@ -8,5 +8,4 @@ Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense
 - CSS3
 
 ## Eu
-[![Texto alternativo](https://www.itabirito.mg.leg.br/imagens/insta.png/image) width="25px" height="25px"](https://www.instagram.com/andremartinsd_/)
-<img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" width="25px" height="25px">
+[![Texto alternativo](https://www.itabirito.mg.leg.br/imagens/insta.png/image) =25x25](https://www.instagram.com/andremartinsd_/)
