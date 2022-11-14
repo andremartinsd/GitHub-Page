@@ -2,12 +2,12 @@
 ## Sobre mim:
 Desenvolvedor Front-End e amante de tecnologias, Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF.
 
+
 <h2>Conhecimento</h2>
 <div><br>
   <img align="left" alt="Dedé-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   JavaScript
 </div>
-
 
 <div><br>
   <img align="left" alt="Dedé-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,7 +18,6 @@ Desenvolvedor Front-End e amante de tecnologias, Graduando Ciência da Computaç
   <img align="left" alt="Dedé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   Html5
 </div>
-
 
 <div><br>
   <img align="left" alt="Dedé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
