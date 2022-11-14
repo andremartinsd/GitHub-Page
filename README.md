@@ -1,7 +1,9 @@
 # André Angelo Martins Delgado
 ## Sobre mim:
-Desenvolvedor Front-End e amante de tecnologias, Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF.
-
+<div>
+  Desenvolvedor Front-End e amante de tecnologias, Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF.
+  <img align="right" alt="Dedé-pic" height="150em" style=border-radius:"50px"; src="https://media-exp1.licdn.com/dms/image/C4E03AQGYPDkegFDcug/profile-displayphoto-shrink_200_200/0/1614119185232?e=1674086400&v=beta&t=8RrKnsPxmAwDBi5rgnAoT8mDvF8MHieesYcZuXaonjQ">
+</div>
 
 <h2>Conhecimento</h2>
 <div><br>
