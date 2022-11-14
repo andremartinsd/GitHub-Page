@@ -2,7 +2,12 @@
 Repositório criado no workshop do GitHub na CPBR 14.
 Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF, com conhecimento em algumas linguagens:
 
+<div><br>
+  <img align="left" alt="Dedé-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 - JavaScript
+
 - React Native
 - HTML5
 - CSS3
