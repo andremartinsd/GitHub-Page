@@ -1,16 +1,26 @@
 # André Angelo Martins Delgado
 Repositório criado no workshop do GitHub na CPBR 14.
-Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF, com conhecimento em algumas linguagens:
+Graduando Ciência da Computação, na Universidade Estadual do Norte Fluminense-UENF, amante de tecnologia e com conhecimento em algumas linguagens:
 
 <div><br>
   <img align="left" alt="Dedé-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+-JavaScript
 
-- JavaScript
+<div><br>
+  <img align="left" alt="Dedé-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+-React
 
-- React Native
-- HTML5
-- CSS3
+<div><br>
+  <img align="left" alt="Dedé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+-Html5
+
+<div><br>
+  <img align="left" alt="Dedé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+-Css3
 
 ### Redes Sociais
 <div> 
